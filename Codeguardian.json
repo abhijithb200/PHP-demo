@@ -1,0 +1,1 @@
+{"hash":"oija","vulns":[{"type":"Reflected XSS ","source":{"value":"'query'","variable":"_GET"}}]}
