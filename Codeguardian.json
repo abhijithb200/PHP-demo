@@ -1,1 +1,1 @@
-{"hash":"arfgsergerg","vulns":[{"type":"Reflected XSS ","source":{"value":"'query'","variable":"_GET"}}]}
+{"hash":"asdfasdf","vulns":[{"type":"Reflected XSS ","source":{"value":"'query'","variable":"_GET"}}]}
