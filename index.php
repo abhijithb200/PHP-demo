@@ -1,4 +1,3 @@
 <?php
     $a = $_GET['query'];
-    echo "Name is ".$a;
-    echo "This is ".$a;
+    echo "The last change  is ".$a;

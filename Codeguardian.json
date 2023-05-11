@@ -1,1 +1,1 @@
-{"hash":"031071156df3660f40a36ed87ceabf4d6c70ad48","vulns":[{"type":"Reflected XSS ","source":{"value":"'query'","variable":"_GET"}},{"type":"Reflected XSS ","source":{"value":"'query'","variable":"_GET"}}]}
+{"hash":"314bbcf3a217c88f3541a6a5e38be586904afd11","vulns":[{"type":"Reflected XSS ","source":{"value":"'query'","variable":"_GET"}}]}
