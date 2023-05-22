@@ -1,1 +1,1 @@
-{"hash":"liyugoiyu","vulns":[{"type":"Reflected XSS","source":{"value":"'name'","variable":"_GET"}},{"type":"Reflected XSS","source":{"value":"'name'","variable":"_GET"}},{"type":"Reflected XSS","source":{"value":"'heading'","variable":"_GET"}}]}
+{"hash":"wtry","vulns":[{"type":"Reflected XSS","source":{"value":"'name'","variable":"_GET"}},{"type":"Reflected XSS","source":{"value":"'name'","variable":"_GET"}},{"type":"Reflected XSS","source":{"value":"'heading'","variable":"_GET"}}]}
