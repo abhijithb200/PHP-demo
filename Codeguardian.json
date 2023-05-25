@@ -1,1 +1,1 @@
-{"hash":"zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz","vulns":[{"type":"Reflected XSS","source":{"value":"'name'","variable":"_GET"}},{"type":"Reflected XSS","source":{"value":"'name'","variable":"_GET"}},{"type":"Reflected XSS","source":{"value":"'heading'","variable":"_GET"}}]}
+{"hash":"cvb","vulns":[{"type":"Reflected XSS","source":{"value":"'name'","variable":"_GET"}},{"type":"Reflected XSS","source":{"value":"'name'","variable":"_GET"}},{"type":"Reflected XSS","source":{"value":"'heading'","variable":"_GET"}}]}
