@@ -1,2 +1,2 @@
 <?php 
-echo "Name is :".$_GET['test_name'];
+echo "Name is :".$_GET['address'];
