@@ -1,1 +1,1 @@
-{"hash":"opopopopopopopo","vulns":[{"type":"Reflected XSS","source":{"value":"'name'","variable":"_GET"}},{"type":"Reflected XSS","source":{"value":"'name'","variable":"_GET"}},{"type":"Reflected XSS","source":{"value":"'heading'","variable":"_GET"}}]}
+{"hash":"opopopopopopopo","vulns":[{"type":"Reflected XSS","source":{"value":"'test_name'","variable":"_GET"}},{"type":"Reflected XSS","source":{"value":"'test_name'","variable":"_GET"}},{"type":"Reflected XSS","source":{"value":"'heading'","variable":"_GET"}}]}
